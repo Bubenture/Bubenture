@@ -6,6 +6,6 @@
 </br>
 <div align="center" >
   <a href="mailto:bubenture@gmail.com"><img src="README/mail.svg" alt="mail" style="width: 60px" /></a>
-  <a href="https://t.me/bubenture"><img src="README/telegram.svg" alt="mail" style="width: 60px" /></a>
-  <a href="https://wa.me/79069170591"><img src="README/whatsapp.svg" alt="mail" style="width: 60px" /></a>
+  <a href="https://t.me/bubenture"><img src="README/telegram.svg" alt="telegram" style="width: 60px" /></a>
+  <a href="https://wa.me/79069170591"><img src="README/whatsapp.svg" alt="whatsapp" style="width: 60px" /></a>
 </div>
