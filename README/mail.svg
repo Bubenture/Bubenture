@@ -1,0 +1,14 @@
+<svg width="150" height="150" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>    
+      <g id="email-icon">
+      <circle cx="49" cy="49" r="70" fill="#ea4335"/>
+      <path d="M 6 23 L 92 23 L 92 77 L 6 77 Z" 
+            fill="none" stroke="#ffffff" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M 6 23 L 49 49 L 92 23" 
+            fill="none" stroke="#ffffff" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    </g> 
+  </defs>
+    <g transform="translate(26, 26)">
+      <use xlink:href="#email-icon"/>
+    </g>
+</svg>
