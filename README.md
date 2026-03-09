@@ -1,4 +1,3 @@
-<p align="center"><a href="https://bubenture.github.io/gallery" ><img width="600" src="README/cat.svg" alt="cat"/></a></p>
 <div align="center" >
   <a href="https://bubenture.github.io/gallery"><img src="README/portfolio.svg" alt="portfolio" style="width: 150px" /></a>
 </div>
