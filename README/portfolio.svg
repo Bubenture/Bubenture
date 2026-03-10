@@ -29,7 +29,8 @@
             fill="none" stroke="#6dbbf7ff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
          <path d="M 80 35 L 135 43 Z" 
             fill="none" stroke="#bcee6cff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
-         <text x="80" y="90" text-anchor="middle" font-family="Arial" font-size="30" font-weight="bold" fill="#252525ff">Portfolio</text>
+         <!-- <text x="80" y="90" text-anchor="middle" font-family="Arial" font-size="30" font-weight="bold" fill="#252525ff">Portfolio</text> -->
     </g>
  
 </svg>
+
