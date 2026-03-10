@@ -1,0 +1,18 @@
+<svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M 24.5,2 
+          C 16,2 8.5,6 4,13
+          C 2,17 2,22 2,27.5
+          L 2,92.5
+          C 2,104 8.5,118 24.5,118
+          C 72,118 72,118 95,118
+          C 72,112 79,118 95.5,118
+          C 111.5,118 118,104 118,92.5
+          L 118,27.5
+          C 118,16 111.5,2 95.5,2
+          C 4,13 
+          C 48,8 41,2 24.5,2 Z" 
+        fill="#38383b"/>
+  <text x="60" y="78" text-anchor="middle" fill="white" 
+        font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" 
+        font-size="48" font-weight="500" letter-spacing="-0.5">ENG</text>
+</svg>
