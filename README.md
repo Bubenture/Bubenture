@@ -1,5 +1,5 @@
 <div align="center" >
-  <a href="https://bubenture.github.io/gallery"><img src="README/portfolio.svg" alt="portfolio" style="width: 150px" /></a>
+  <img src="README/portfolio.svg" alt="portfolio" style="width: 150px" />
 </div>
 </br>
 <div align="center" >
