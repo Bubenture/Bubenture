@@ -55,7 +55,12 @@ header {
   backdrop-filter: blur(5px);
   background: rgba(255, 255, 255, 0.05);
 }
-
+/* .contacts:hover .contact:nth-child(odd) {
+  transform: rotate(-4deg);
+}
+.contacts:hover .contact:nth-child(even) {
+  transform: rotate(4deg);
+} */
 .contacts:hover .contact {
   transition: transform 0.2s ease;
 }
@@ -126,3 +131,4 @@ footer a {
   margin-bottom: 0;
 
 }
+
